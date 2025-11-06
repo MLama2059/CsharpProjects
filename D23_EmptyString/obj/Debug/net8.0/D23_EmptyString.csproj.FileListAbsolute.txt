@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D23_EmptyString\obj\Debug\net8.0\D23_EmptyString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D23_EmptyString\obj\Debug\net8.0\D23_EmptyString.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D23_EmptyString\obj\Debug\net8.0\D23_EmptyString.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D23_EmptyString\obj\Debug\net8.0\D23_EmptyString.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D23_EmptyString\bin\Debug\net8.0\D23_EmptyString.exe
+C:\Codes\CsharpProjects\D23_EmptyString\bin\Debug\net8.0\D23_EmptyString.deps.json
+C:\Codes\CsharpProjects\D23_EmptyString\bin\Debug\net8.0\D23_EmptyString.runtimeconfig.json
+C:\Codes\CsharpProjects\D23_EmptyString\bin\Debug\net8.0\D23_EmptyString.dll
+C:\Codes\CsharpProjects\D23_EmptyString\bin\Debug\net8.0\D23_EmptyString.pdb
+C:\Codes\CsharpProjects\D23_EmptyString\obj\Debug\net8.0\D23_EmptyString.dll
+C:\Codes\CsharpProjects\D23_EmptyString\obj\Debug\net8.0\refint\D23_EmptyString.dll
+C:\Codes\CsharpProjects\D23_EmptyString\obj\Debug\net8.0\D23_EmptyString.pdb
+C:\Codes\CsharpProjects\D23_EmptyString\obj\Debug\net8.0\D23_EmptyString.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D23_EmptyString\obj\Debug\net8.0\ref\D23_EmptyString.dll

@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D43_NamedParameters\bin\Debug\net8.0\D43_NamedParameters.exe
+C:\Codes\CsharpProjects\D43_NamedParameters\bin\Debug\net8.0\D43_NamedParameters.deps.json
+C:\Codes\CsharpProjects\D43_NamedParameters\bin\Debug\net8.0\D43_NamedParameters.runtimeconfig.json
+C:\Codes\CsharpProjects\D43_NamedParameters\bin\Debug\net8.0\D43_NamedParameters.dll
+C:\Codes\CsharpProjects\D43_NamedParameters\bin\Debug\net8.0\D43_NamedParameters.pdb
+C:\Codes\CsharpProjects\D43_NamedParameters\obj\Debug\net8.0\D43_NamedParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D43_NamedParameters\obj\Debug\net8.0\D43_NamedParameters.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D43_NamedParameters\obj\Debug\net8.0\D43_NamedParameters.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D43_NamedParameters\obj\Debug\net8.0\D43_NamedParameters.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D43_NamedParameters\obj\Debug\net8.0\D43_NamedParameters.dll
+C:\Codes\CsharpProjects\D43_NamedParameters\obj\Debug\net8.0\refint\D43_NamedParameters.dll
+C:\Codes\CsharpProjects\D43_NamedParameters\obj\Debug\net8.0\D43_NamedParameters.pdb
+C:\Codes\CsharpProjects\D43_NamedParameters\obj\Debug\net8.0\D43_NamedParameters.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D43_NamedParameters\obj\Debug\net8.0\ref\D43_NamedParameters.dll

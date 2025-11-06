@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D3_ConvertStringToNumbers\obj\Debug\net8.0\D3_ConvertStringToNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D3_ConvertStringToNumbers\obj\Debug\net8.0\D3_ConvertStringToNumbers.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D3_ConvertStringToNumbers\obj\Debug\net8.0\D3_ConvertStringToNumbers.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D3_ConvertStringToNumbers\obj\Debug\net8.0\D3_ConvertStringToNumbers.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D3_ConvertStringToNumbers\bin\Debug\net8.0\D3_ConvertStringToNumbers.exe
+C:\Codes\CsharpProjects\D3_ConvertStringToNumbers\bin\Debug\net8.0\D3_ConvertStringToNumbers.deps.json
+C:\Codes\CsharpProjects\D3_ConvertStringToNumbers\bin\Debug\net8.0\D3_ConvertStringToNumbers.runtimeconfig.json
+C:\Codes\CsharpProjects\D3_ConvertStringToNumbers\bin\Debug\net8.0\D3_ConvertStringToNumbers.dll
+C:\Codes\CsharpProjects\D3_ConvertStringToNumbers\bin\Debug\net8.0\D3_ConvertStringToNumbers.pdb
+C:\Codes\CsharpProjects\D3_ConvertStringToNumbers\obj\Debug\net8.0\D3_ConvertStringToNumbers.dll
+C:\Codes\CsharpProjects\D3_ConvertStringToNumbers\obj\Debug\net8.0\refint\D3_ConvertStringToNumbers.dll
+C:\Codes\CsharpProjects\D3_ConvertStringToNumbers\obj\Debug\net8.0\D3_ConvertStringToNumbers.pdb
+C:\Codes\CsharpProjects\D3_ConvertStringToNumbers\obj\Debug\net8.0\D3_ConvertStringToNumbers.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D3_ConvertStringToNumbers\obj\Debug\net8.0\ref\D3_ConvertStringToNumbers.dll

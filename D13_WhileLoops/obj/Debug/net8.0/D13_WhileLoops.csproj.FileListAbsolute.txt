@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D13_WhileLoops\obj\Debug\net8.0\D13_WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D13_WhileLoops\obj\Debug\net8.0\D13_WhileLoops.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D13_WhileLoops\obj\Debug\net8.0\D13_WhileLoops.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D13_WhileLoops\obj\Debug\net8.0\D13_WhileLoops.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D13_WhileLoops\bin\Debug\net8.0\D13_WhileLoops.exe
+C:\Codes\CsharpProjects\D13_WhileLoops\bin\Debug\net8.0\D13_WhileLoops.deps.json
+C:\Codes\CsharpProjects\D13_WhileLoops\bin\Debug\net8.0\D13_WhileLoops.runtimeconfig.json
+C:\Codes\CsharpProjects\D13_WhileLoops\bin\Debug\net8.0\D13_WhileLoops.dll
+C:\Codes\CsharpProjects\D13_WhileLoops\bin\Debug\net8.0\D13_WhileLoops.pdb
+C:\Codes\CsharpProjects\D13_WhileLoops\obj\Debug\net8.0\D13_WhileLoops.dll
+C:\Codes\CsharpProjects\D13_WhileLoops\obj\Debug\net8.0\refint\D13_WhileLoops.dll
+C:\Codes\CsharpProjects\D13_WhileLoops\obj\Debug\net8.0\D13_WhileLoops.pdb
+C:\Codes\CsharpProjects\D13_WhileLoops\obj\Debug\net8.0\D13_WhileLoops.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D13_WhileLoops\obj\Debug\net8.0\ref\D13_WhileLoops.dll

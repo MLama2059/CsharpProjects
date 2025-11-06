@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D32_ArrayClearing\bin\Debug\net8.0\D32_ArrayClearing.exe
+C:\Codes\CsharpProjects\D32_ArrayClearing\bin\Debug\net8.0\D32_ArrayClearing.deps.json
+C:\Codes\CsharpProjects\D32_ArrayClearing\bin\Debug\net8.0\D32_ArrayClearing.runtimeconfig.json
+C:\Codes\CsharpProjects\D32_ArrayClearing\bin\Debug\net8.0\D32_ArrayClearing.dll
+C:\Codes\CsharpProjects\D32_ArrayClearing\bin\Debug\net8.0\D32_ArrayClearing.pdb
+C:\Codes\CsharpProjects\D32_ArrayClearing\obj\Debug\net8.0\D32_ArrayClearing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D32_ArrayClearing\obj\Debug\net8.0\D32_ArrayClearing.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D32_ArrayClearing\obj\Debug\net8.0\D32_ArrayClearing.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D32_ArrayClearing\obj\Debug\net8.0\D32_ArrayClearing.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D32_ArrayClearing\obj\Debug\net8.0\D32_ArrayClearing.dll
+C:\Codes\CsharpProjects\D32_ArrayClearing\obj\Debug\net8.0\refint\D32_ArrayClearing.dll
+C:\Codes\CsharpProjects\D32_ArrayClearing\obj\Debug\net8.0\D32_ArrayClearing.pdb
+C:\Codes\CsharpProjects\D32_ArrayClearing\obj\Debug\net8.0\D32_ArrayClearing.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D32_ArrayClearing\obj\Debug\net8.0\ref\D32_ArrayClearing.dll

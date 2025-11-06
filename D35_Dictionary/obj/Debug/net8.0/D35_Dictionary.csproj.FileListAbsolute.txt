@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D35_Dictionary\bin\Debug\net8.0\D35_Dictionary.exe
+C:\Codes\CsharpProjects\D35_Dictionary\bin\Debug\net8.0\D35_Dictionary.deps.json
+C:\Codes\CsharpProjects\D35_Dictionary\bin\Debug\net8.0\D35_Dictionary.runtimeconfig.json
+C:\Codes\CsharpProjects\D35_Dictionary\bin\Debug\net8.0\D35_Dictionary.dll
+C:\Codes\CsharpProjects\D35_Dictionary\bin\Debug\net8.0\D35_Dictionary.pdb
+C:\Codes\CsharpProjects\D35_Dictionary\obj\Debug\net8.0\D35_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D35_Dictionary\obj\Debug\net8.0\D35_Dictionary.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D35_Dictionary\obj\Debug\net8.0\D35_Dictionary.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D35_Dictionary\obj\Debug\net8.0\D35_Dictionary.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D35_Dictionary\obj\Debug\net8.0\D35_Dictionary.dll
+C:\Codes\CsharpProjects\D35_Dictionary\obj\Debug\net8.0\refint\D35_Dictionary.dll
+C:\Codes\CsharpProjects\D35_Dictionary\obj\Debug\net8.0\D35_Dictionary.pdb
+C:\Codes\CsharpProjects\D35_Dictionary\obj\Debug\net8.0\D35_Dictionary.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D35_Dictionary\obj\Debug\net8.0\ref\D35_Dictionary.dll

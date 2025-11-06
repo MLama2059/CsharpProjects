@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D7_VarKeyword\obj\Debug\net8.0\D7_VarKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D7_VarKeyword\obj\Debug\net8.0\D7_VarKeyword.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D7_VarKeyword\obj\Debug\net8.0\D7_VarKeyword.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D7_VarKeyword\obj\Debug\net8.0\D7_VarKeyword.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D7_VarKeyword\bin\Debug\net8.0\D7_VarKeyword.exe
+C:\Codes\CsharpProjects\D7_VarKeyword\bin\Debug\net8.0\D7_VarKeyword.deps.json
+C:\Codes\CsharpProjects\D7_VarKeyword\bin\Debug\net8.0\D7_VarKeyword.runtimeconfig.json
+C:\Codes\CsharpProjects\D7_VarKeyword\bin\Debug\net8.0\D7_VarKeyword.dll
+C:\Codes\CsharpProjects\D7_VarKeyword\bin\Debug\net8.0\D7_VarKeyword.pdb
+C:\Codes\CsharpProjects\D7_VarKeyword\obj\Debug\net8.0\D7_VarKeyword.dll
+C:\Codes\CsharpProjects\D7_VarKeyword\obj\Debug\net8.0\refint\D7_VarKeyword.dll
+C:\Codes\CsharpProjects\D7_VarKeyword\obj\Debug\net8.0\D7_VarKeyword.pdb
+C:\Codes\CsharpProjects\D7_VarKeyword\obj\Debug\net8.0\D7_VarKeyword.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D7_VarKeyword\obj\Debug\net8.0\ref\D7_VarKeyword.dll

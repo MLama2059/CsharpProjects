@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "D3_ConvertStringToNumbers/1.0.0": {
+        "runtime": {
+          "D3_ConvertStringToNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D3_ConvertStringToNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

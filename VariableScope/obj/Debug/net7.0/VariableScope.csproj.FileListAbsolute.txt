@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\VariableScope\bin\Debug\net7.0\VariableScope.exe
+C:\Codes\CsharpProjects\VariableScope\bin\Debug\net7.0\VariableScope.deps.json
+C:\Codes\CsharpProjects\VariableScope\bin\Debug\net7.0\VariableScope.runtimeconfig.json
+C:\Codes\CsharpProjects\VariableScope\bin\Debug\net7.0\VariableScope.dll
+C:\Codes\CsharpProjects\VariableScope\bin\Debug\net7.0\VariableScope.pdb
+C:\Codes\CsharpProjects\VariableScope\obj\Debug\net7.0\VariableScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\VariableScope\obj\Debug\net7.0\VariableScope.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\VariableScope\obj\Debug\net7.0\VariableScope.AssemblyInfo.cs
+C:\Codes\CsharpProjects\VariableScope\obj\Debug\net7.0\VariableScope.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\VariableScope\obj\Debug\net7.0\VariableScope.dll
+C:\Codes\CsharpProjects\VariableScope\obj\Debug\net7.0\refint\VariableScope.dll
+C:\Codes\CsharpProjects\VariableScope\obj\Debug\net7.0\VariableScope.pdb
+C:\Codes\CsharpProjects\VariableScope\obj\Debug\net7.0\VariableScope.genruntimeconfig.cache
+C:\Codes\CsharpProjects\VariableScope\obj\Debug\net7.0\ref\VariableScope.dll

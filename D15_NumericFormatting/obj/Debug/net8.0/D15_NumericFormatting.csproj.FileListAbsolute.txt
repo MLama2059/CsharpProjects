@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D15_NumericFormatting\bin\Debug\net8.0\D15_NumericFormatting.exe
+C:\Codes\CsharpProjects\D15_NumericFormatting\bin\Debug\net8.0\D15_NumericFormatting.deps.json
+C:\Codes\CsharpProjects\D15_NumericFormatting\bin\Debug\net8.0\D15_NumericFormatting.runtimeconfig.json
+C:\Codes\CsharpProjects\D15_NumericFormatting\bin\Debug\net8.0\D15_NumericFormatting.dll
+C:\Codes\CsharpProjects\D15_NumericFormatting\bin\Debug\net8.0\D15_NumericFormatting.pdb
+C:\Codes\CsharpProjects\D15_NumericFormatting\obj\Debug\net8.0\D15_NumericFormatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D15_NumericFormatting\obj\Debug\net8.0\D15_NumericFormatting.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D15_NumericFormatting\obj\Debug\net8.0\D15_NumericFormatting.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D15_NumericFormatting\obj\Debug\net8.0\D15_NumericFormatting.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D15_NumericFormatting\obj\Debug\net8.0\D15_NumericFormatting.dll
+C:\Codes\CsharpProjects\D15_NumericFormatting\obj\Debug\net8.0\refint\D15_NumericFormatting.dll
+C:\Codes\CsharpProjects\D15_NumericFormatting\obj\Debug\net8.0\D15_NumericFormatting.pdb
+C:\Codes\CsharpProjects\D15_NumericFormatting\obj\Debug\net8.0\D15_NumericFormatting.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D15_NumericFormatting\obj\Debug\net8.0\ref\D15_NumericFormatting.dll

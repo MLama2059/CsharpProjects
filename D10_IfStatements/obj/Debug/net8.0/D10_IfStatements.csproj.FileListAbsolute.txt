@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D10_IfStatements\obj\Debug\net8.0\D10_IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D10_IfStatements\obj\Debug\net8.0\D10_IfStatements.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D10_IfStatements\obj\Debug\net8.0\D10_IfStatements.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D10_IfStatements\obj\Debug\net8.0\D10_IfStatements.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D10_IfStatements\bin\Debug\net8.0\D10_IfStatements.exe
+C:\Codes\CsharpProjects\D10_IfStatements\bin\Debug\net8.0\D10_IfStatements.deps.json
+C:\Codes\CsharpProjects\D10_IfStatements\bin\Debug\net8.0\D10_IfStatements.runtimeconfig.json
+C:\Codes\CsharpProjects\D10_IfStatements\bin\Debug\net8.0\D10_IfStatements.dll
+C:\Codes\CsharpProjects\D10_IfStatements\bin\Debug\net8.0\D10_IfStatements.pdb
+C:\Codes\CsharpProjects\D10_IfStatements\obj\Debug\net8.0\D10_IfStatements.dll
+C:\Codes\CsharpProjects\D10_IfStatements\obj\Debug\net8.0\refint\D10_IfStatements.dll
+C:\Codes\CsharpProjects\D10_IfStatements\obj\Debug\net8.0\D10_IfStatements.pdb
+C:\Codes\CsharpProjects\D10_IfStatements\obj\Debug\net8.0\D10_IfStatements.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D10_IfStatements\obj\Debug\net8.0\ref\D10_IfStatements.dll

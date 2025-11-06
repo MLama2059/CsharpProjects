@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D24_StringEqualsFunction\bin\Debug\net8.0\D24_StringEqualsFunction.exe
+C:\Codes\CsharpProjects\D24_StringEqualsFunction\bin\Debug\net8.0\D24_StringEqualsFunction.deps.json
+C:\Codes\CsharpProjects\D24_StringEqualsFunction\bin\Debug\net8.0\D24_StringEqualsFunction.runtimeconfig.json
+C:\Codes\CsharpProjects\D24_StringEqualsFunction\bin\Debug\net8.0\D24_StringEqualsFunction.dll
+C:\Codes\CsharpProjects\D24_StringEqualsFunction\bin\Debug\net8.0\D24_StringEqualsFunction.pdb
+C:\Codes\CsharpProjects\D24_StringEqualsFunction\obj\Debug\net8.0\D24_StringEqualsFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D24_StringEqualsFunction\obj\Debug\net8.0\D24_StringEqualsFunction.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D24_StringEqualsFunction\obj\Debug\net8.0\D24_StringEqualsFunction.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D24_StringEqualsFunction\obj\Debug\net8.0\D24_StringEqualsFunction.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D24_StringEqualsFunction\obj\Debug\net8.0\D24_StringEqualsFunction.dll
+C:\Codes\CsharpProjects\D24_StringEqualsFunction\obj\Debug\net8.0\refint\D24_StringEqualsFunction.dll
+C:\Codes\CsharpProjects\D24_StringEqualsFunction\obj\Debug\net8.0\D24_StringEqualsFunction.pdb
+C:\Codes\CsharpProjects\D24_StringEqualsFunction\obj\Debug\net8.0\D24_StringEqualsFunction.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D24_StringEqualsFunction\obj\Debug\net8.0\ref\D24_StringEqualsFunction.dll

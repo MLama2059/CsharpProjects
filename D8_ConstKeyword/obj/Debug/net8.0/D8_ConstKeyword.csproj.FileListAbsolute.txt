@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D8_ConstKeyword\obj\Debug\net8.0\D8_ConstKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D8_ConstKeyword\obj\Debug\net8.0\D8_ConstKeyword.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D8_ConstKeyword\obj\Debug\net8.0\D8_ConstKeyword.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D8_ConstKeyword\obj\Debug\net8.0\D8_ConstKeyword.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D8_ConstKeyword\bin\Debug\net8.0\D8_ConstKeyword.exe
+C:\Codes\CsharpProjects\D8_ConstKeyword\bin\Debug\net8.0\D8_ConstKeyword.deps.json
+C:\Codes\CsharpProjects\D8_ConstKeyword\bin\Debug\net8.0\D8_ConstKeyword.runtimeconfig.json
+C:\Codes\CsharpProjects\D8_ConstKeyword\bin\Debug\net8.0\D8_ConstKeyword.dll
+C:\Codes\CsharpProjects\D8_ConstKeyword\bin\Debug\net8.0\D8_ConstKeyword.pdb
+C:\Codes\CsharpProjects\D8_ConstKeyword\obj\Debug\net8.0\D8_ConstKeyword.dll
+C:\Codes\CsharpProjects\D8_ConstKeyword\obj\Debug\net8.0\refint\D8_ConstKeyword.dll
+C:\Codes\CsharpProjects\D8_ConstKeyword\obj\Debug\net8.0\D8_ConstKeyword.pdb
+C:\Codes\CsharpProjects\D8_ConstKeyword\obj\Debug\net8.0\D8_ConstKeyword.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D8_ConstKeyword\obj\Debug\net8.0\ref\D8_ConstKeyword.dll

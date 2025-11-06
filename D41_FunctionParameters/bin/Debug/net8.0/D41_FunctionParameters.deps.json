@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "D41_FunctionParameters/1.0.0": {
+        "runtime": {
+          "D41_FunctionParameters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D41_FunctionParameters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

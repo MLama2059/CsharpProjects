@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\SubscriptionExercise\bin\Debug\net7.0\SubscriptionExercise.exe
+C:\Codes\CsharpProjects\SubscriptionExercise\bin\Debug\net7.0\SubscriptionExercise.deps.json
+C:\Codes\CsharpProjects\SubscriptionExercise\bin\Debug\net7.0\SubscriptionExercise.runtimeconfig.json
+C:\Codes\CsharpProjects\SubscriptionExercise\bin\Debug\net7.0\SubscriptionExercise.dll
+C:\Codes\CsharpProjects\SubscriptionExercise\bin\Debug\net7.0\SubscriptionExercise.pdb
+C:\Codes\CsharpProjects\SubscriptionExercise\obj\Debug\net7.0\SubscriptionExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\SubscriptionExercise\obj\Debug\net7.0\SubscriptionExercise.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\SubscriptionExercise\obj\Debug\net7.0\SubscriptionExercise.AssemblyInfo.cs
+C:\Codes\CsharpProjects\SubscriptionExercise\obj\Debug\net7.0\SubscriptionExercise.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\SubscriptionExercise\obj\Debug\net7.0\SubscriptionExercise.dll
+C:\Codes\CsharpProjects\SubscriptionExercise\obj\Debug\net7.0\refint\SubscriptionExercise.dll
+C:\Codes\CsharpProjects\SubscriptionExercise\obj\Debug\net7.0\SubscriptionExercise.pdb
+C:\Codes\CsharpProjects\SubscriptionExercise\obj\Debug\net7.0\SubscriptionExercise.genruntimeconfig.cache
+C:\Codes\CsharpProjects\SubscriptionExercise\obj\Debug\net7.0\ref\SubscriptionExercise.dll

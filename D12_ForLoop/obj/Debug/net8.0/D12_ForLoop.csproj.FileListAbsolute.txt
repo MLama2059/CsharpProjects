@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D12_ForLoop\bin\Debug\net8.0\D12_ForLoop.exe
+C:\Codes\CsharpProjects\D12_ForLoop\bin\Debug\net8.0\D12_ForLoop.deps.json
+C:\Codes\CsharpProjects\D12_ForLoop\bin\Debug\net8.0\D12_ForLoop.runtimeconfig.json
+C:\Codes\CsharpProjects\D12_ForLoop\bin\Debug\net8.0\D12_ForLoop.dll
+C:\Codes\CsharpProjects\D12_ForLoop\bin\Debug\net8.0\D12_ForLoop.pdb
+C:\Codes\CsharpProjects\D12_ForLoop\obj\Debug\net8.0\D12_ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D12_ForLoop\obj\Debug\net8.0\D12_ForLoop.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D12_ForLoop\obj\Debug\net8.0\D12_ForLoop.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D12_ForLoop\obj\Debug\net8.0\D12_ForLoop.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D12_ForLoop\obj\Debug\net8.0\D12_ForLoop.dll
+C:\Codes\CsharpProjects\D12_ForLoop\obj\Debug\net8.0\refint\D12_ForLoop.dll
+C:\Codes\CsharpProjects\D12_ForLoop\obj\Debug\net8.0\D12_ForLoop.pdb
+C:\Codes\CsharpProjects\D12_ForLoop\obj\Debug\net8.0\D12_ForLoop.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D12_ForLoop\obj\Debug\net8.0\ref\D12_ForLoop.dll

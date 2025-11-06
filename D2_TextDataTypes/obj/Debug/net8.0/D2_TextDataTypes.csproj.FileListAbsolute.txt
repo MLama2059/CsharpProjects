@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D2_TextDataTypes\bin\Debug\net8.0\D2_TextDataTypes.exe
+C:\Codes\CsharpProjects\D2_TextDataTypes\bin\Debug\net8.0\D2_TextDataTypes.deps.json
+C:\Codes\CsharpProjects\D2_TextDataTypes\bin\Debug\net8.0\D2_TextDataTypes.runtimeconfig.json
+C:\Codes\CsharpProjects\D2_TextDataTypes\bin\Debug\net8.0\D2_TextDataTypes.dll
+C:\Codes\CsharpProjects\D2_TextDataTypes\bin\Debug\net8.0\D2_TextDataTypes.pdb
+C:\Codes\CsharpProjects\D2_TextDataTypes\obj\Debug\net8.0\D2_TextDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D2_TextDataTypes\obj\Debug\net8.0\D2_TextDataTypes.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D2_TextDataTypes\obj\Debug\net8.0\D2_TextDataTypes.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D2_TextDataTypes\obj\Debug\net8.0\D2_TextDataTypes.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D2_TextDataTypes\obj\Debug\net8.0\D2_TextDataTypes.dll
+C:\Codes\CsharpProjects\D2_TextDataTypes\obj\Debug\net8.0\refint\D2_TextDataTypes.dll
+C:\Codes\CsharpProjects\D2_TextDataTypes\obj\Debug\net8.0\D2_TextDataTypes.pdb
+C:\Codes\CsharpProjects\D2_TextDataTypes\obj\Debug\net8.0\D2_TextDataTypes.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D2_TextDataTypes\obj\Debug\net8.0\ref\D2_TextDataTypes.dll

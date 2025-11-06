@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\DiceGame\obj\Debug\net7.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\DiceGame\obj\Debug\net7.0\DiceGame.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\DiceGame\obj\Debug\net7.0\DiceGame.AssemblyInfo.cs
+C:\Codes\CsharpProjects\DiceGame\obj\Debug\net7.0\DiceGame.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\DiceGame\bin\Debug\net7.0\DiceGame.exe
+C:\Codes\CsharpProjects\DiceGame\bin\Debug\net7.0\DiceGame.deps.json
+C:\Codes\CsharpProjects\DiceGame\bin\Debug\net7.0\DiceGame.runtimeconfig.json
+C:\Codes\CsharpProjects\DiceGame\bin\Debug\net7.0\DiceGame.dll
+C:\Codes\CsharpProjects\DiceGame\bin\Debug\net7.0\DiceGame.pdb
+C:\Codes\CsharpProjects\DiceGame\obj\Debug\net7.0\DiceGame.dll
+C:\Codes\CsharpProjects\DiceGame\obj\Debug\net7.0\refint\DiceGame.dll
+C:\Codes\CsharpProjects\DiceGame\obj\Debug\net7.0\DiceGame.pdb
+C:\Codes\CsharpProjects\DiceGame\obj\Debug\net7.0\DiceGame.genruntimeconfig.cache
+C:\Codes\CsharpProjects\DiceGame\obj\Debug\net7.0\ref\DiceGame.dll

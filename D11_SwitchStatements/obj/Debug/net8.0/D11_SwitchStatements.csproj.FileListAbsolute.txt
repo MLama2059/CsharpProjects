@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D11_SwitchStatements\obj\Debug\net8.0\D11_SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D11_SwitchStatements\obj\Debug\net8.0\D11_SwitchStatements.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D11_SwitchStatements\obj\Debug\net8.0\D11_SwitchStatements.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D11_SwitchStatements\obj\Debug\net8.0\D11_SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D11_SwitchStatements\bin\Debug\net8.0\D11_SwitchStatements.exe
+C:\Codes\CsharpProjects\D11_SwitchStatements\bin\Debug\net8.0\D11_SwitchStatements.deps.json
+C:\Codes\CsharpProjects\D11_SwitchStatements\bin\Debug\net8.0\D11_SwitchStatements.runtimeconfig.json
+C:\Codes\CsharpProjects\D11_SwitchStatements\bin\Debug\net8.0\D11_SwitchStatements.dll
+C:\Codes\CsharpProjects\D11_SwitchStatements\bin\Debug\net8.0\D11_SwitchStatements.pdb
+C:\Codes\CsharpProjects\D11_SwitchStatements\obj\Debug\net8.0\D11_SwitchStatements.dll
+C:\Codes\CsharpProjects\D11_SwitchStatements\obj\Debug\net8.0\refint\D11_SwitchStatements.dll
+C:\Codes\CsharpProjects\D11_SwitchStatements\obj\Debug\net8.0\D11_SwitchStatements.pdb
+C:\Codes\CsharpProjects\D11_SwitchStatements\obj\Debug\net8.0\D11_SwitchStatements.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D11_SwitchStatements\obj\Debug\net8.0\ref\D11_SwitchStatements.dll

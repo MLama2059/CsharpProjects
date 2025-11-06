@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D40_ReturnTypeFunctions\bin\Debug\net8.0\D40_ReturnTypeFunctions.exe
+C:\Codes\CsharpProjects\D40_ReturnTypeFunctions\bin\Debug\net8.0\D40_ReturnTypeFunctions.deps.json
+C:\Codes\CsharpProjects\D40_ReturnTypeFunctions\bin\Debug\net8.0\D40_ReturnTypeFunctions.runtimeconfig.json
+C:\Codes\CsharpProjects\D40_ReturnTypeFunctions\bin\Debug\net8.0\D40_ReturnTypeFunctions.dll
+C:\Codes\CsharpProjects\D40_ReturnTypeFunctions\bin\Debug\net8.0\D40_ReturnTypeFunctions.pdb
+C:\Codes\CsharpProjects\D40_ReturnTypeFunctions\obj\Debug\net8.0\D40_ReturnTypeFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D40_ReturnTypeFunctions\obj\Debug\net8.0\D40_ReturnTypeFunctions.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D40_ReturnTypeFunctions\obj\Debug\net8.0\D40_ReturnTypeFunctions.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D40_ReturnTypeFunctions\obj\Debug\net8.0\D40_ReturnTypeFunctions.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D40_ReturnTypeFunctions\obj\Debug\net8.0\D40_ReturnTypeFunctions.dll
+C:\Codes\CsharpProjects\D40_ReturnTypeFunctions\obj\Debug\net8.0\refint\D40_ReturnTypeFunctions.dll
+C:\Codes\CsharpProjects\D40_ReturnTypeFunctions\obj\Debug\net8.0\D40_ReturnTypeFunctions.pdb
+C:\Codes\CsharpProjects\D40_ReturnTypeFunctions\obj\Debug\net8.0\D40_ReturnTypeFunctions.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D40_ReturnTypeFunctions\obj\Debug\net8.0\ref\D40_ReturnTypeFunctions.dll

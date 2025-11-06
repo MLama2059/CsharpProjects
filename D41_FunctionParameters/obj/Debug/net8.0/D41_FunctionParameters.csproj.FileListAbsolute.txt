@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D41_FunctionParameters\obj\Debug\net8.0\D41_FunctionParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D41_FunctionParameters\obj\Debug\net8.0\D41_FunctionParameters.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D41_FunctionParameters\obj\Debug\net8.0\D41_FunctionParameters.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D41_FunctionParameters\obj\Debug\net8.0\D41_FunctionParameters.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D41_FunctionParameters\bin\Debug\net8.0\D41_FunctionParameters.exe
+C:\Codes\CsharpProjects\D41_FunctionParameters\bin\Debug\net8.0\D41_FunctionParameters.deps.json
+C:\Codes\CsharpProjects\D41_FunctionParameters\bin\Debug\net8.0\D41_FunctionParameters.runtimeconfig.json
+C:\Codes\CsharpProjects\D41_FunctionParameters\bin\Debug\net8.0\D41_FunctionParameters.dll
+C:\Codes\CsharpProjects\D41_FunctionParameters\bin\Debug\net8.0\D41_FunctionParameters.pdb
+C:\Codes\CsharpProjects\D41_FunctionParameters\obj\Debug\net8.0\D41_FunctionParameters.dll
+C:\Codes\CsharpProjects\D41_FunctionParameters\obj\Debug\net8.0\refint\D41_FunctionParameters.dll
+C:\Codes\CsharpProjects\D41_FunctionParameters\obj\Debug\net8.0\D41_FunctionParameters.pdb
+C:\Codes\CsharpProjects\D41_FunctionParameters\obj\Debug\net8.0\D41_FunctionParameters.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D41_FunctionParameters\obj\Debug\net8.0\ref\D41_FunctionParameters.dll

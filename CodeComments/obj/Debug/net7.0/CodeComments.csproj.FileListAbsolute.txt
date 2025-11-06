@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\CodeComments\bin\Debug\net7.0\CodeComments.exe
+C:\Codes\CsharpProjects\CodeComments\bin\Debug\net7.0\CodeComments.deps.json
+C:\Codes\CsharpProjects\CodeComments\bin\Debug\net7.0\CodeComments.runtimeconfig.json
+C:\Codes\CsharpProjects\CodeComments\bin\Debug\net7.0\CodeComments.dll
+C:\Codes\CsharpProjects\CodeComments\bin\Debug\net7.0\CodeComments.pdb
+C:\Codes\CsharpProjects\CodeComments\obj\Debug\net7.0\CodeComments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\CodeComments\obj\Debug\net7.0\CodeComments.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\CodeComments\obj\Debug\net7.0\CodeComments.AssemblyInfo.cs
+C:\Codes\CsharpProjects\CodeComments\obj\Debug\net7.0\CodeComments.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\CodeComments\obj\Debug\net7.0\CodeComments.dll
+C:\Codes\CsharpProjects\CodeComments\obj\Debug\net7.0\refint\CodeComments.dll
+C:\Codes\CsharpProjects\CodeComments\obj\Debug\net7.0\CodeComments.pdb
+C:\Codes\CsharpProjects\CodeComments\obj\Debug\net7.0\CodeComments.genruntimeconfig.cache
+C:\Codes\CsharpProjects\CodeComments\obj\Debug\net7.0\ref\CodeComments.dll

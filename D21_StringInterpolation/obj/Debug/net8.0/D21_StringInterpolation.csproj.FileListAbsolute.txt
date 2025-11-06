@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D21_StringInterpolation\bin\Debug\net8.0\D21_StringInterpolation.exe
+C:\Codes\CsharpProjects\D21_StringInterpolation\bin\Debug\net8.0\D21_StringInterpolation.deps.json
+C:\Codes\CsharpProjects\D21_StringInterpolation\bin\Debug\net8.0\D21_StringInterpolation.runtimeconfig.json
+C:\Codes\CsharpProjects\D21_StringInterpolation\bin\Debug\net8.0\D21_StringInterpolation.dll
+C:\Codes\CsharpProjects\D21_StringInterpolation\bin\Debug\net8.0\D21_StringInterpolation.pdb
+C:\Codes\CsharpProjects\D21_StringInterpolation\obj\Debug\net8.0\D21_StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D21_StringInterpolation\obj\Debug\net8.0\D21_StringInterpolation.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D21_StringInterpolation\obj\Debug\net8.0\D21_StringInterpolation.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D21_StringInterpolation\obj\Debug\net8.0\D21_StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D21_StringInterpolation\obj\Debug\net8.0\D21_StringInterpolation.dll
+C:\Codes\CsharpProjects\D21_StringInterpolation\obj\Debug\net8.0\refint\D21_StringInterpolation.dll
+C:\Codes\CsharpProjects\D21_StringInterpolation\obj\Debug\net8.0\D21_StringInterpolation.pdb
+C:\Codes\CsharpProjects\D21_StringInterpolation\obj\Debug\net8.0\D21_StringInterpolation.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D21_StringInterpolation\obj\Debug\net8.0\ref\D21_StringInterpolation.dll

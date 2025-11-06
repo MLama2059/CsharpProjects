@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "D20_StringFormatting/1.0.0": {
+        "runtime": {
+          "D20_StringFormatting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D20_StringFormatting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

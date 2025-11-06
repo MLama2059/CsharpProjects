@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D44_OutParameters\obj\Debug\net8.0\D44_OutParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D44_OutParameters\obj\Debug\net8.0\D44_OutParameters.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D44_OutParameters\obj\Debug\net8.0\D44_OutParameters.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D44_OutParameters\obj\Debug\net8.0\D44_OutParameters.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D44_OutParameters\bin\Debug\net8.0\D44_OutParameters.exe
+C:\Codes\CsharpProjects\D44_OutParameters\bin\Debug\net8.0\D44_OutParameters.deps.json
+C:\Codes\CsharpProjects\D44_OutParameters\bin\Debug\net8.0\D44_OutParameters.runtimeconfig.json
+C:\Codes\CsharpProjects\D44_OutParameters\bin\Debug\net8.0\D44_OutParameters.dll
+C:\Codes\CsharpProjects\D44_OutParameters\bin\Debug\net8.0\D44_OutParameters.pdb
+C:\Codes\CsharpProjects\D44_OutParameters\obj\Debug\net8.0\D44_OutParameters.dll
+C:\Codes\CsharpProjects\D44_OutParameters\obj\Debug\net8.0\refint\D44_OutParameters.dll
+C:\Codes\CsharpProjects\D44_OutParameters\obj\Debug\net8.0\D44_OutParameters.pdb
+C:\Codes\CsharpProjects\D44_OutParameters\obj\Debug\net8.0\D44_OutParameters.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D44_OutParameters\obj\Debug\net8.0\ref\D44_OutParameters.dll

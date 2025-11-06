@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D39_VoidFunctions\bin\Debug\net8.0\D39_VoidFunctions.exe
+C:\Codes\CsharpProjects\D39_VoidFunctions\bin\Debug\net8.0\D39_VoidFunctions.deps.json
+C:\Codes\CsharpProjects\D39_VoidFunctions\bin\Debug\net8.0\D39_VoidFunctions.runtimeconfig.json
+C:\Codes\CsharpProjects\D39_VoidFunctions\bin\Debug\net8.0\D39_VoidFunctions.dll
+C:\Codes\CsharpProjects\D39_VoidFunctions\bin\Debug\net8.0\D39_VoidFunctions.pdb
+C:\Codes\CsharpProjects\D39_VoidFunctions\obj\Debug\net8.0\D39_VoidFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D39_VoidFunctions\obj\Debug\net8.0\D39_VoidFunctions.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D39_VoidFunctions\obj\Debug\net8.0\D39_VoidFunctions.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D39_VoidFunctions\obj\Debug\net8.0\D39_VoidFunctions.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D39_VoidFunctions\obj\Debug\net8.0\D39_VoidFunctions.dll
+C:\Codes\CsharpProjects\D39_VoidFunctions\obj\Debug\net8.0\refint\D39_VoidFunctions.dll
+C:\Codes\CsharpProjects\D39_VoidFunctions\obj\Debug\net8.0\D39_VoidFunctions.pdb
+C:\Codes\CsharpProjects\D39_VoidFunctions\obj\Debug\net8.0\D39_VoidFunctions.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D39_VoidFunctions\obj\Debug\net8.0\ref\D39_VoidFunctions.dll

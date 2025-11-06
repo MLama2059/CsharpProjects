@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D31_ArrayReversal\bin\Debug\net8.0\D31_ArrayReversal.exe
+C:\Codes\CsharpProjects\D31_ArrayReversal\bin\Debug\net8.0\D31_ArrayReversal.deps.json
+C:\Codes\CsharpProjects\D31_ArrayReversal\bin\Debug\net8.0\D31_ArrayReversal.runtimeconfig.json
+C:\Codes\CsharpProjects\D31_ArrayReversal\bin\Debug\net8.0\D31_ArrayReversal.dll
+C:\Codes\CsharpProjects\D31_ArrayReversal\bin\Debug\net8.0\D31_ArrayReversal.pdb
+C:\Codes\CsharpProjects\D31_ArrayReversal\obj\Debug\net8.0\D31_ArrayReversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D31_ArrayReversal\obj\Debug\net8.0\D31_ArrayReversal.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D31_ArrayReversal\obj\Debug\net8.0\D31_ArrayReversal.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D31_ArrayReversal\obj\Debug\net8.0\D31_ArrayReversal.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D31_ArrayReversal\obj\Debug\net8.0\D31_ArrayReversal.dll
+C:\Codes\CsharpProjects\D31_ArrayReversal\obj\Debug\net8.0\refint\D31_ArrayReversal.dll
+C:\Codes\CsharpProjects\D31_ArrayReversal\obj\Debug\net8.0\D31_ArrayReversal.pdb
+C:\Codes\CsharpProjects\D31_ArrayReversal\obj\Debug\net8.0\D31_ArrayReversal.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D31_ArrayReversal\obj\Debug\net8.0\ref\D31_ArrayReversal.dll

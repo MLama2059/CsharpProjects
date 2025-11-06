@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\SwitchCase\bin\Debug\net7.0\SwitchCase.exe
+C:\Codes\CsharpProjects\SwitchCase\bin\Debug\net7.0\SwitchCase.deps.json
+C:\Codes\CsharpProjects\SwitchCase\bin\Debug\net7.0\SwitchCase.runtimeconfig.json
+C:\Codes\CsharpProjects\SwitchCase\bin\Debug\net7.0\SwitchCase.dll
+C:\Codes\CsharpProjects\SwitchCase\bin\Debug\net7.0\SwitchCase.pdb
+C:\Codes\CsharpProjects\SwitchCase\obj\Debug\net7.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfo.cs
+C:\Codes\CsharpProjects\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\SwitchCase\obj\Debug\net7.0\SwitchCase.dll
+C:\Codes\CsharpProjects\SwitchCase\obj\Debug\net7.0\refint\SwitchCase.dll
+C:\Codes\CsharpProjects\SwitchCase\obj\Debug\net7.0\SwitchCase.pdb
+C:\Codes\CsharpProjects\SwitchCase\obj\Debug\net7.0\SwitchCase.genruntimeconfig.cache
+C:\Codes\CsharpProjects\SwitchCase\obj\Debug\net7.0\ref\SwitchCase.dll

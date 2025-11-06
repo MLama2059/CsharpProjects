@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\Day1\bin\Debug\net8.0\NumbersInCSharp.exe
+C:\Codes\CsharpProjects\Day1\bin\Debug\net8.0\NumbersInCSharp.deps.json
+C:\Codes\CsharpProjects\Day1\bin\Debug\net8.0\NumbersInCSharp.runtimeconfig.json
+C:\Codes\CsharpProjects\Day1\bin\Debug\net8.0\NumbersInCSharp.dll
+C:\Codes\CsharpProjects\Day1\bin\Debug\net8.0\NumbersInCSharp.pdb
+C:\Codes\CsharpProjects\Day1\obj\Debug\net8.0\NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\Day1\obj\Debug\net8.0\NumbersInCSharp.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\Day1\obj\Debug\net8.0\NumbersInCSharp.AssemblyInfo.cs
+C:\Codes\CsharpProjects\Day1\obj\Debug\net8.0\NumbersInCSharp.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\Day1\obj\Debug\net8.0\NumbersInCSharp.dll
+C:\Codes\CsharpProjects\Day1\obj\Debug\net8.0\refint\NumbersInCSharp.dll
+C:\Codes\CsharpProjects\Day1\obj\Debug\net8.0\NumbersInCSharp.pdb
+C:\Codes\CsharpProjects\Day1\obj\Debug\net8.0\NumbersInCSharp.genruntimeconfig.cache
+C:\Codes\CsharpProjects\Day1\obj\Debug\net8.0\ref\NumbersInCSharp.dll

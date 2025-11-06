@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D36_Exercise\bin\Debug\net8.0\D36_Exercise.exe
+C:\Codes\CsharpProjects\D36_Exercise\bin\Debug\net8.0\D36_Exercise.deps.json
+C:\Codes\CsharpProjects\D36_Exercise\bin\Debug\net8.0\D36_Exercise.runtimeconfig.json
+C:\Codes\CsharpProjects\D36_Exercise\bin\Debug\net8.0\D36_Exercise.dll
+C:\Codes\CsharpProjects\D36_Exercise\bin\Debug\net8.0\D36_Exercise.pdb
+C:\Codes\CsharpProjects\D36_Exercise\obj\Debug\net8.0\D36_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D36_Exercise\obj\Debug\net8.0\D36_Exercise.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D36_Exercise\obj\Debug\net8.0\D36_Exercise.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D36_Exercise\obj\Debug\net8.0\D36_Exercise.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D36_Exercise\obj\Debug\net8.0\D36_Exercise.dll
+C:\Codes\CsharpProjects\D36_Exercise\obj\Debug\net8.0\refint\D36_Exercise.dll
+C:\Codes\CsharpProjects\D36_Exercise\obj\Debug\net8.0\D36_Exercise.pdb
+C:\Codes\CsharpProjects\D36_Exercise\obj\Debug\net8.0\D36_Exercise.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D36_Exercise\obj\Debug\net8.0\ref\D36_Exercise.dll

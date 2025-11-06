@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\BooleanExpressions\bin\Debug\net7.0\BooleanExpressions.exe
+C:\Codes\CsharpProjects\BooleanExpressions\bin\Debug\net7.0\BooleanExpressions.deps.json
+C:\Codes\CsharpProjects\BooleanExpressions\bin\Debug\net7.0\BooleanExpressions.runtimeconfig.json
+C:\Codes\CsharpProjects\BooleanExpressions\bin\Debug\net7.0\BooleanExpressions.dll
+C:\Codes\CsharpProjects\BooleanExpressions\bin\Debug\net7.0\BooleanExpressions.pdb
+C:\Codes\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.AssemblyInfo.cs
+C:\Codes\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.dll
+C:\Codes\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\refint\BooleanExpressions.dll
+C:\Codes\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.pdb
+C:\Codes\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.genruntimeconfig.cache
+C:\Codes\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\ref\BooleanExpressions.dll

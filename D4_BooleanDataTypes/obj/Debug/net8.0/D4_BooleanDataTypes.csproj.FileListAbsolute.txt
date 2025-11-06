@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D4_BooleanDataTypes\bin\Debug\net8.0\D4_BooleanDataTypes.exe
+C:\Codes\CsharpProjects\D4_BooleanDataTypes\bin\Debug\net8.0\D4_BooleanDataTypes.deps.json
+C:\Codes\CsharpProjects\D4_BooleanDataTypes\bin\Debug\net8.0\D4_BooleanDataTypes.runtimeconfig.json
+C:\Codes\CsharpProjects\D4_BooleanDataTypes\bin\Debug\net8.0\D4_BooleanDataTypes.dll
+C:\Codes\CsharpProjects\D4_BooleanDataTypes\bin\Debug\net8.0\D4_BooleanDataTypes.pdb
+C:\Codes\CsharpProjects\D4_BooleanDataTypes\obj\Debug\net8.0\D4_BooleanDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D4_BooleanDataTypes\obj\Debug\net8.0\D4_BooleanDataTypes.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D4_BooleanDataTypes\obj\Debug\net8.0\D4_BooleanDataTypes.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D4_BooleanDataTypes\obj\Debug\net8.0\D4_BooleanDataTypes.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D4_BooleanDataTypes\obj\Debug\net8.0\D4_BooleanDataTypes.dll
+C:\Codes\CsharpProjects\D4_BooleanDataTypes\obj\Debug\net8.0\refint\D4_BooleanDataTypes.dll
+C:\Codes\CsharpProjects\D4_BooleanDataTypes\obj\Debug\net8.0\D4_BooleanDataTypes.pdb
+C:\Codes\CsharpProjects\D4_BooleanDataTypes\obj\Debug\net8.0\D4_BooleanDataTypes.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D4_BooleanDataTypes\obj\Debug\net8.0\ref\D4_BooleanDataTypes.dll

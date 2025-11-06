@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\Day1.1\bin\Debug\net8.0\BranchesAndLoops.exe
+C:\Codes\CsharpProjects\Day1.1\bin\Debug\net8.0\BranchesAndLoops.deps.json
+C:\Codes\CsharpProjects\Day1.1\bin\Debug\net8.0\BranchesAndLoops.runtimeconfig.json
+C:\Codes\CsharpProjects\Day1.1\bin\Debug\net8.0\BranchesAndLoops.dll
+C:\Codes\CsharpProjects\Day1.1\bin\Debug\net8.0\BranchesAndLoops.pdb
+C:\Codes\CsharpProjects\Day1.1\obj\Debug\net8.0\BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\Day1.1\obj\Debug\net8.0\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\Day1.1\obj\Debug\net8.0\BranchesAndLoops.AssemblyInfo.cs
+C:\Codes\CsharpProjects\Day1.1\obj\Debug\net8.0\BranchesAndLoops.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\Day1.1\obj\Debug\net8.0\BranchesAndLoops.dll
+C:\Codes\CsharpProjects\Day1.1\obj\Debug\net8.0\refint\BranchesAndLoops.dll
+C:\Codes\CsharpProjects\Day1.1\obj\Debug\net8.0\BranchesAndLoops.pdb
+C:\Codes\CsharpProjects\Day1.1\obj\Debug\net8.0\BranchesAndLoops.genruntimeconfig.cache
+C:\Codes\CsharpProjects\Day1.1\obj\Debug\net8.0\ref\BranchesAndLoops.dll

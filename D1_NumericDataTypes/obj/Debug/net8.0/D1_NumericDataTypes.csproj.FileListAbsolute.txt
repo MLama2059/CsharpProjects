@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D1_NumericDataTypes\bin\Debug\net8.0\D1_NumericDataTypes.exe
+C:\Codes\CsharpProjects\D1_NumericDataTypes\bin\Debug\net8.0\D1_NumericDataTypes.deps.json
+C:\Codes\CsharpProjects\D1_NumericDataTypes\bin\Debug\net8.0\D1_NumericDataTypes.runtimeconfig.json
+C:\Codes\CsharpProjects\D1_NumericDataTypes\bin\Debug\net8.0\D1_NumericDataTypes.dll
+C:\Codes\CsharpProjects\D1_NumericDataTypes\bin\Debug\net8.0\D1_NumericDataTypes.pdb
+C:\Codes\CsharpProjects\D1_NumericDataTypes\obj\Debug\net8.0\D1_NumericDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D1_NumericDataTypes\obj\Debug\net8.0\D1_NumericDataTypes.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D1_NumericDataTypes\obj\Debug\net8.0\D1_NumericDataTypes.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D1_NumericDataTypes\obj\Debug\net8.0\D1_NumericDataTypes.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D1_NumericDataTypes\obj\Debug\net8.0\D1_NumericDataTypes.dll
+C:\Codes\CsharpProjects\D1_NumericDataTypes\obj\Debug\net8.0\refint\D1_NumericDataTypes.dll
+C:\Codes\CsharpProjects\D1_NumericDataTypes\obj\Debug\net8.0\D1_NumericDataTypes.pdb
+C:\Codes\CsharpProjects\D1_NumericDataTypes\obj\Debug\net8.0\D1_NumericDataTypes.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D1_NumericDataTypes\obj\Debug\net8.0\ref\D1_NumericDataTypes.dll

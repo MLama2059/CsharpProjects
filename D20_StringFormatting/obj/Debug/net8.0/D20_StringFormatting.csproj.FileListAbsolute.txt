@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D20_StringFormatting\bin\Debug\net8.0\D20_StringFormatting.exe
+C:\Codes\CsharpProjects\D20_StringFormatting\bin\Debug\net8.0\D20_StringFormatting.deps.json
+C:\Codes\CsharpProjects\D20_StringFormatting\bin\Debug\net8.0\D20_StringFormatting.runtimeconfig.json
+C:\Codes\CsharpProjects\D20_StringFormatting\bin\Debug\net8.0\D20_StringFormatting.dll
+C:\Codes\CsharpProjects\D20_StringFormatting\bin\Debug\net8.0\D20_StringFormatting.pdb
+C:\Codes\CsharpProjects\D20_StringFormatting\obj\Debug\net8.0\D20_StringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D20_StringFormatting\obj\Debug\net8.0\D20_StringFormatting.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D20_StringFormatting\obj\Debug\net8.0\D20_StringFormatting.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D20_StringFormatting\obj\Debug\net8.0\D20_StringFormatting.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D20_StringFormatting\obj\Debug\net8.0\D20_StringFormatting.dll
+C:\Codes\CsharpProjects\D20_StringFormatting\obj\Debug\net8.0\refint\D20_StringFormatting.dll
+C:\Codes\CsharpProjects\D20_StringFormatting\obj\Debug\net8.0\D20_StringFormatting.pdb
+C:\Codes\CsharpProjects\D20_StringFormatting\obj\Debug\net8.0\D20_StringFormatting.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D20_StringFormatting\obj\Debug\net8.0\ref\D20_StringFormatting.dll

@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D42_OptionalParameters\bin\Debug\net8.0\D42_OptionalParameters.exe
+C:\Codes\CsharpProjects\D42_OptionalParameters\bin\Debug\net8.0\D42_OptionalParameters.deps.json
+C:\Codes\CsharpProjects\D42_OptionalParameters\bin\Debug\net8.0\D42_OptionalParameters.runtimeconfig.json
+C:\Codes\CsharpProjects\D42_OptionalParameters\bin\Debug\net8.0\D42_OptionalParameters.dll
+C:\Codes\CsharpProjects\D42_OptionalParameters\bin\Debug\net8.0\D42_OptionalParameters.pdb
+C:\Codes\CsharpProjects\D42_OptionalParameters\obj\Debug\net8.0\D42_OptionalParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D42_OptionalParameters\obj\Debug\net8.0\D42_OptionalParameters.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D42_OptionalParameters\obj\Debug\net8.0\D42_OptionalParameters.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D42_OptionalParameters\obj\Debug\net8.0\D42_OptionalParameters.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D42_OptionalParameters\obj\Debug\net8.0\D42_OptionalParameters.dll
+C:\Codes\CsharpProjects\D42_OptionalParameters\obj\Debug\net8.0\refint\D42_OptionalParameters.dll
+C:\Codes\CsharpProjects\D42_OptionalParameters\obj\Debug\net8.0\D42_OptionalParameters.pdb
+C:\Codes\CsharpProjects\D42_OptionalParameters\obj\Debug\net8.0\D42_OptionalParameters.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D42_OptionalParameters\obj\Debug\net8.0\ref\D42_OptionalParameters.dll

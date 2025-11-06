@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D25_StringIterationLooping\bin\Debug\net8.0\D25_StringIterationLooping.exe
+C:\Codes\CsharpProjects\D25_StringIterationLooping\bin\Debug\net8.0\D25_StringIterationLooping.deps.json
+C:\Codes\CsharpProjects\D25_StringIterationLooping\bin\Debug\net8.0\D25_StringIterationLooping.runtimeconfig.json
+C:\Codes\CsharpProjects\D25_StringIterationLooping\bin\Debug\net8.0\D25_StringIterationLooping.dll
+C:\Codes\CsharpProjects\D25_StringIterationLooping\bin\Debug\net8.0\D25_StringIterationLooping.pdb
+C:\Codes\CsharpProjects\D25_StringIterationLooping\obj\Debug\net8.0\D25_StringIterationLooping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D25_StringIterationLooping\obj\Debug\net8.0\D25_StringIterationLooping.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D25_StringIterationLooping\obj\Debug\net8.0\D25_StringIterationLooping.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D25_StringIterationLooping\obj\Debug\net8.0\D25_StringIterationLooping.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D25_StringIterationLooping\obj\Debug\net8.0\D25_StringIterationLooping.dll
+C:\Codes\CsharpProjects\D25_StringIterationLooping\obj\Debug\net8.0\refint\D25_StringIterationLooping.dll
+C:\Codes\CsharpProjects\D25_StringIterationLooping\obj\Debug\net8.0\D25_StringIterationLooping.pdb
+C:\Codes\CsharpProjects\D25_StringIterationLooping\obj\Debug\net8.0\D25_StringIterationLooping.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D25_StringIterationLooping\obj\Debug\net8.0\ref\D25_StringIterationLooping.dll

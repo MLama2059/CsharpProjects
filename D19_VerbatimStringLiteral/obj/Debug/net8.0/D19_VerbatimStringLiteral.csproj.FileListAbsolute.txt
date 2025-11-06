@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D19_VerbatimStringLiteral\bin\Debug\net8.0\D19_VerbatimStringLiteral.exe
+C:\Codes\CsharpProjects\D19_VerbatimStringLiteral\bin\Debug\net8.0\D19_VerbatimStringLiteral.deps.json
+C:\Codes\CsharpProjects\D19_VerbatimStringLiteral\bin\Debug\net8.0\D19_VerbatimStringLiteral.runtimeconfig.json
+C:\Codes\CsharpProjects\D19_VerbatimStringLiteral\bin\Debug\net8.0\D19_VerbatimStringLiteral.dll
+C:\Codes\CsharpProjects\D19_VerbatimStringLiteral\bin\Debug\net8.0\D19_VerbatimStringLiteral.pdb
+C:\Codes\CsharpProjects\D19_VerbatimStringLiteral\obj\Debug\net8.0\D19_VerbatimStringLiteral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D19_VerbatimStringLiteral\obj\Debug\net8.0\D19_VerbatimStringLiteral.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D19_VerbatimStringLiteral\obj\Debug\net8.0\D19_VerbatimStringLiteral.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D19_VerbatimStringLiteral\obj\Debug\net8.0\D19_VerbatimStringLiteral.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D19_VerbatimStringLiteral\obj\Debug\net8.0\D19_VerbatimStringLiteral.dll
+C:\Codes\CsharpProjects\D19_VerbatimStringLiteral\obj\Debug\net8.0\refint\D19_VerbatimStringLiteral.dll
+C:\Codes\CsharpProjects\D19_VerbatimStringLiteral\obj\Debug\net8.0\D19_VerbatimStringLiteral.pdb
+C:\Codes\CsharpProjects\D19_VerbatimStringLiteral\obj\Debug\net8.0\D19_VerbatimStringLiteral.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D19_VerbatimStringLiteral\obj\Debug\net8.0\ref\D19_VerbatimStringLiteral.dll

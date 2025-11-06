@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D9_ConsoleInputOutput\bin\Debug\net8.0\D9_ConsoleInputOutput.exe
+C:\Codes\CsharpProjects\D9_ConsoleInputOutput\bin\Debug\net8.0\D9_ConsoleInputOutput.deps.json
+C:\Codes\CsharpProjects\D9_ConsoleInputOutput\bin\Debug\net8.0\D9_ConsoleInputOutput.runtimeconfig.json
+C:\Codes\CsharpProjects\D9_ConsoleInputOutput\bin\Debug\net8.0\D9_ConsoleInputOutput.dll
+C:\Codes\CsharpProjects\D9_ConsoleInputOutput\bin\Debug\net8.0\D9_ConsoleInputOutput.pdb
+C:\Codes\CsharpProjects\D9_ConsoleInputOutput\obj\Debug\net8.0\D9_ConsoleInputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D9_ConsoleInputOutput\obj\Debug\net8.0\D9_ConsoleInputOutput.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D9_ConsoleInputOutput\obj\Debug\net8.0\D9_ConsoleInputOutput.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D9_ConsoleInputOutput\obj\Debug\net8.0\D9_ConsoleInputOutput.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D9_ConsoleInputOutput\obj\Debug\net8.0\D9_ConsoleInputOutput.dll
+C:\Codes\CsharpProjects\D9_ConsoleInputOutput\obj\Debug\net8.0\refint\D9_ConsoleInputOutput.dll
+C:\Codes\CsharpProjects\D9_ConsoleInputOutput\obj\Debug\net8.0\D9_ConsoleInputOutput.pdb
+C:\Codes\CsharpProjects\D9_ConsoleInputOutput\obj\Debug\net8.0\D9_ConsoleInputOutput.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D9_ConsoleInputOutput\obj\Debug\net8.0\ref\D9_ConsoleInputOutput.dll

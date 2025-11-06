@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "D19_VerbatimStringLiteral/1.0.0": {
+        "runtime": {
+          "D19_VerbatimStringLiteral.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D19_VerbatimStringLiteral/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

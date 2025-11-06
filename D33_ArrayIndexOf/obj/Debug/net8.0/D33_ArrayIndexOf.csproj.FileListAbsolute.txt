@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D33_ArrayIndexOf\bin\Debug\net8.0\D33_ArrayIndexOf.exe
+C:\Codes\CsharpProjects\D33_ArrayIndexOf\bin\Debug\net8.0\D33_ArrayIndexOf.deps.json
+C:\Codes\CsharpProjects\D33_ArrayIndexOf\bin\Debug\net8.0\D33_ArrayIndexOf.runtimeconfig.json
+C:\Codes\CsharpProjects\D33_ArrayIndexOf\bin\Debug\net8.0\D33_ArrayIndexOf.dll
+C:\Codes\CsharpProjects\D33_ArrayIndexOf\bin\Debug\net8.0\D33_ArrayIndexOf.pdb
+C:\Codes\CsharpProjects\D33_ArrayIndexOf\obj\Debug\net8.0\D33_ArrayIndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D33_ArrayIndexOf\obj\Debug\net8.0\D33_ArrayIndexOf.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D33_ArrayIndexOf\obj\Debug\net8.0\D33_ArrayIndexOf.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D33_ArrayIndexOf\obj\Debug\net8.0\D33_ArrayIndexOf.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D33_ArrayIndexOf\obj\Debug\net8.0\D33_ArrayIndexOf.dll
+C:\Codes\CsharpProjects\D33_ArrayIndexOf\obj\Debug\net8.0\refint\D33_ArrayIndexOf.dll
+C:\Codes\CsharpProjects\D33_ArrayIndexOf\obj\Debug\net8.0\D33_ArrayIndexOf.pdb
+C:\Codes\CsharpProjects\D33_ArrayIndexOf\obj\Debug\net8.0\D33_ArrayIndexOf.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D33_ArrayIndexOf\obj\Debug\net8.0\ref\D33_ArrayIndexOf.dll

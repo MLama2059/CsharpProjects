@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\Day3\bin\Debug\net8.0\MainReturnValTest.exe
+C:\Codes\CsharpProjects\Day3\bin\Debug\net8.0\MainReturnValTest.deps.json
+C:\Codes\CsharpProjects\Day3\bin\Debug\net8.0\MainReturnValTest.runtimeconfig.json
+C:\Codes\CsharpProjects\Day3\bin\Debug\net8.0\MainReturnValTest.dll
+C:\Codes\CsharpProjects\Day3\bin\Debug\net8.0\MainReturnValTest.pdb
+C:\Codes\CsharpProjects\Day3\obj\Debug\net8.0\MainReturnValTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\Day3\obj\Debug\net8.0\MainReturnValTest.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\Day3\obj\Debug\net8.0\MainReturnValTest.AssemblyInfo.cs
+C:\Codes\CsharpProjects\Day3\obj\Debug\net8.0\MainReturnValTest.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\Day3\obj\Debug\net8.0\MainReturnValTest.dll
+C:\Codes\CsharpProjects\Day3\obj\Debug\net8.0\refint\MainReturnValTest.dll
+C:\Codes\CsharpProjects\Day3\obj\Debug\net8.0\MainReturnValTest.pdb
+C:\Codes\CsharpProjects\Day3\obj\Debug\net8.0\MainReturnValTest.genruntimeconfig.cache
+C:\Codes\CsharpProjects\Day3\obj\Debug\net8.0\ref\MainReturnValTest.dll

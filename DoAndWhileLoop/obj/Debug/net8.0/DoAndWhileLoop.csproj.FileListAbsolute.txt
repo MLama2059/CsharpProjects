@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\DoAndWhileLoop\bin\Debug\net8.0\DoAndWhileLoop.exe
+C:\Codes\CsharpProjects\DoAndWhileLoop\bin\Debug\net8.0\DoAndWhileLoop.deps.json
+C:\Codes\CsharpProjects\DoAndWhileLoop\bin\Debug\net8.0\DoAndWhileLoop.runtimeconfig.json
+C:\Codes\CsharpProjects\DoAndWhileLoop\bin\Debug\net8.0\DoAndWhileLoop.dll
+C:\Codes\CsharpProjects\DoAndWhileLoop\bin\Debug\net8.0\DoAndWhileLoop.pdb
+C:\Codes\CsharpProjects\DoAndWhileLoop\obj\Debug\net8.0\DoAndWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\DoAndWhileLoop\obj\Debug\net8.0\DoAndWhileLoop.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\DoAndWhileLoop\obj\Debug\net8.0\DoAndWhileLoop.AssemblyInfo.cs
+C:\Codes\CsharpProjects\DoAndWhileLoop\obj\Debug\net8.0\DoAndWhileLoop.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\DoAndWhileLoop\obj\Debug\net8.0\DoAndWhileLoop.dll
+C:\Codes\CsharpProjects\DoAndWhileLoop\obj\Debug\net8.0\refint\DoAndWhileLoop.dll
+C:\Codes\CsharpProjects\DoAndWhileLoop\obj\Debug\net8.0\DoAndWhileLoop.pdb
+C:\Codes\CsharpProjects\DoAndWhileLoop\obj\Debug\net8.0\DoAndWhileLoop.genruntimeconfig.cache
+C:\Codes\CsharpProjects\DoAndWhileLoop\obj\Debug\net8.0\ref\DoAndWhileLoop.dll

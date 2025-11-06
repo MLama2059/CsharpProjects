@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D45_ReferenceParameters\bin\Debug\net8.0\D45_ReferenceParameters.exe
+C:\Codes\CsharpProjects\D45_ReferenceParameters\bin\Debug\net8.0\D45_ReferenceParameters.deps.json
+C:\Codes\CsharpProjects\D45_ReferenceParameters\bin\Debug\net8.0\D45_ReferenceParameters.runtimeconfig.json
+C:\Codes\CsharpProjects\D45_ReferenceParameters\bin\Debug\net8.0\D45_ReferenceParameters.dll
+C:\Codes\CsharpProjects\D45_ReferenceParameters\bin\Debug\net8.0\D45_ReferenceParameters.pdb
+C:\Codes\CsharpProjects\D45_ReferenceParameters\obj\Debug\net8.0\D45_ReferenceParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D45_ReferenceParameters\obj\Debug\net8.0\D45_ReferenceParameters.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D45_ReferenceParameters\obj\Debug\net8.0\D45_ReferenceParameters.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D45_ReferenceParameters\obj\Debug\net8.0\D45_ReferenceParameters.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D45_ReferenceParameters\obj\Debug\net8.0\D45_ReferenceParameters.dll
+C:\Codes\CsharpProjects\D45_ReferenceParameters\obj\Debug\net8.0\refint\D45_ReferenceParameters.dll
+C:\Codes\CsharpProjects\D45_ReferenceParameters\obj\Debug\net8.0\D45_ReferenceParameters.pdb
+C:\Codes\CsharpProjects\D45_ReferenceParameters\obj\Debug\net8.0\D45_ReferenceParameters.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D45_ReferenceParameters\obj\Debug\net8.0\ref\D45_ReferenceParameters.dll

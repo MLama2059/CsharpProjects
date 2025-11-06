@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D22_StringConcatenation\bin\Debug\net8.0\D22_StringConcatenation.exe
+C:\Codes\CsharpProjects\D22_StringConcatenation\bin\Debug\net8.0\D22_StringConcatenation.deps.json
+C:\Codes\CsharpProjects\D22_StringConcatenation\bin\Debug\net8.0\D22_StringConcatenation.runtimeconfig.json
+C:\Codes\CsharpProjects\D22_StringConcatenation\bin\Debug\net8.0\D22_StringConcatenation.dll
+C:\Codes\CsharpProjects\D22_StringConcatenation\bin\Debug\net8.0\D22_StringConcatenation.pdb
+C:\Codes\CsharpProjects\D22_StringConcatenation\obj\Debug\net8.0\D22_StringConcatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D22_StringConcatenation\obj\Debug\net8.0\D22_StringConcatenation.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D22_StringConcatenation\obj\Debug\net8.0\D22_StringConcatenation.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D22_StringConcatenation\obj\Debug\net8.0\D22_StringConcatenation.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D22_StringConcatenation\obj\Debug\net8.0\D22_StringConcatenation.dll
+C:\Codes\CsharpProjects\D22_StringConcatenation\obj\Debug\net8.0\refint\D22_StringConcatenation.dll
+C:\Codes\CsharpProjects\D22_StringConcatenation\obj\Debug\net8.0\D22_StringConcatenation.pdb
+C:\Codes\CsharpProjects\D22_StringConcatenation\obj\Debug\net8.0\D22_StringConcatenation.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D22_StringConcatenation\obj\Debug\net8.0\ref\D22_StringConcatenation.dll

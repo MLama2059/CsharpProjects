@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "D16_TryParseFunction/1.0.0": {
+        "runtime": {
+          "D16_TryParseFunction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D16_TryParseFunction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

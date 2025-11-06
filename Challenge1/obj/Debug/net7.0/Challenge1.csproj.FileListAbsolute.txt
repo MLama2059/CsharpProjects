@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\Challenge1\bin\Debug\net7.0\Challenge1.exe
+C:\Codes\CsharpProjects\Challenge1\bin\Debug\net7.0\Challenge1.deps.json
+C:\Codes\CsharpProjects\Challenge1\bin\Debug\net7.0\Challenge1.runtimeconfig.json
+C:\Codes\CsharpProjects\Challenge1\bin\Debug\net7.0\Challenge1.dll
+C:\Codes\CsharpProjects\Challenge1\bin\Debug\net7.0\Challenge1.pdb
+C:\Codes\CsharpProjects\Challenge1\obj\Debug\net7.0\Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\Challenge1\obj\Debug\net7.0\Challenge1.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\Challenge1\obj\Debug\net7.0\Challenge1.AssemblyInfo.cs
+C:\Codes\CsharpProjects\Challenge1\obj\Debug\net7.0\Challenge1.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\Challenge1\obj\Debug\net7.0\Challenge1.dll
+C:\Codes\CsharpProjects\Challenge1\obj\Debug\net7.0\refint\Challenge1.dll
+C:\Codes\CsharpProjects\Challenge1\obj\Debug\net7.0\Challenge1.pdb
+C:\Codes\CsharpProjects\Challenge1\obj\Debug\net7.0\Challenge1.genruntimeconfig.cache
+C:\Codes\CsharpProjects\Challenge1\obj\Debug\net7.0\ref\Challenge1.dll

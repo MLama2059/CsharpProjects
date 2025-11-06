@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D30_ArraySorting\bin\Debug\net8.0\D30_ArraySorting.exe
+C:\Codes\CsharpProjects\D30_ArraySorting\bin\Debug\net8.0\D30_ArraySorting.deps.json
+C:\Codes\CsharpProjects\D30_ArraySorting\bin\Debug\net8.0\D30_ArraySorting.runtimeconfig.json
+C:\Codes\CsharpProjects\D30_ArraySorting\bin\Debug\net8.0\D30_ArraySorting.dll
+C:\Codes\CsharpProjects\D30_ArraySorting\bin\Debug\net8.0\D30_ArraySorting.pdb
+C:\Codes\CsharpProjects\D30_ArraySorting\obj\Debug\net8.0\D30_ArraySorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D30_ArraySorting\obj\Debug\net8.0\D30_ArraySorting.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D30_ArraySorting\obj\Debug\net8.0\D30_ArraySorting.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D30_ArraySorting\obj\Debug\net8.0\D30_ArraySorting.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D30_ArraySorting\obj\Debug\net8.0\D30_ArraySorting.dll
+C:\Codes\CsharpProjects\D30_ArraySorting\obj\Debug\net8.0\refint\D30_ArraySorting.dll
+C:\Codes\CsharpProjects\D30_ArraySorting\obj\Debug\net8.0\D30_ArraySorting.pdb
+C:\Codes\CsharpProjects\D30_ArraySorting\obj\Debug\net8.0\D30_ArraySorting.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D30_ArraySorting\obj\Debug\net8.0\ref\D30_ArraySorting.dll

@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D6_Remainder\bin\Debug\net8.0\D6_Remainder.exe
+C:\Codes\CsharpProjects\D6_Remainder\bin\Debug\net8.0\D6_Remainder.deps.json
+C:\Codes\CsharpProjects\D6_Remainder\bin\Debug\net8.0\D6_Remainder.runtimeconfig.json
+C:\Codes\CsharpProjects\D6_Remainder\bin\Debug\net8.0\D6_Remainder.dll
+C:\Codes\CsharpProjects\D6_Remainder\bin\Debug\net8.0\D6_Remainder.pdb
+C:\Codes\CsharpProjects\D6_Remainder\obj\Debug\net8.0\D6_Remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D6_Remainder\obj\Debug\net8.0\D6_Remainder.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D6_Remainder\obj\Debug\net8.0\D6_Remainder.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D6_Remainder\obj\Debug\net8.0\D6_Remainder.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D6_Remainder\obj\Debug\net8.0\D6_Remainder.dll
+C:\Codes\CsharpProjects\D6_Remainder\obj\Debug\net8.0\refint\D6_Remainder.dll
+C:\Codes\CsharpProjects\D6_Remainder\obj\Debug\net8.0\D6_Remainder.pdb
+C:\Codes\CsharpProjects\D6_Remainder\obj\Debug\net8.0\D6_Remainder.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D6_Remainder\obj\Debug\net8.0\ref\D6_Remainder.dll

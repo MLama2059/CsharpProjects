@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D29_Arrays\bin\Debug\net8.0\D29_Arrays.exe
+C:\Codes\CsharpProjects\D29_Arrays\bin\Debug\net8.0\D29_Arrays.deps.json
+C:\Codes\CsharpProjects\D29_Arrays\bin\Debug\net8.0\D29_Arrays.runtimeconfig.json
+C:\Codes\CsharpProjects\D29_Arrays\bin\Debug\net8.0\D29_Arrays.dll
+C:\Codes\CsharpProjects\D29_Arrays\bin\Debug\net8.0\D29_Arrays.pdb
+C:\Codes\CsharpProjects\D29_Arrays\obj\Debug\net8.0\D29_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D29_Arrays\obj\Debug\net8.0\D29_Arrays.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D29_Arrays\obj\Debug\net8.0\D29_Arrays.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D29_Arrays\obj\Debug\net8.0\D29_Arrays.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D29_Arrays\obj\Debug\net8.0\D29_Arrays.dll
+C:\Codes\CsharpProjects\D29_Arrays\obj\Debug\net8.0\refint\D29_Arrays.dll
+C:\Codes\CsharpProjects\D29_Arrays\obj\Debug\net8.0\D29_Arrays.pdb
+C:\Codes\CsharpProjects\D29_Arrays\obj\Debug\net8.0\D29_Arrays.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D29_Arrays\obj\Debug\net8.0\ref\D29_Arrays.dll

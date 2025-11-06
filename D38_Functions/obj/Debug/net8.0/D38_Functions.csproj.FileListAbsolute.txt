@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D38_Functions\bin\Debug\net8.0\D38_Functions.exe
+C:\Codes\CsharpProjects\D38_Functions\bin\Debug\net8.0\D38_Functions.deps.json
+C:\Codes\CsharpProjects\D38_Functions\bin\Debug\net8.0\D38_Functions.runtimeconfig.json
+C:\Codes\CsharpProjects\D38_Functions\bin\Debug\net8.0\D38_Functions.dll
+C:\Codes\CsharpProjects\D38_Functions\bin\Debug\net8.0\D38_Functions.pdb
+C:\Codes\CsharpProjects\D38_Functions\obj\Debug\net8.0\D38_Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D38_Functions\obj\Debug\net8.0\D38_Functions.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D38_Functions\obj\Debug\net8.0\D38_Functions.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D38_Functions\obj\Debug\net8.0\D38_Functions.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D38_Functions\obj\Debug\net8.0\D38_Functions.dll
+C:\Codes\CsharpProjects\D38_Functions\obj\Debug\net8.0\refint\D38_Functions.dll
+C:\Codes\CsharpProjects\D38_Functions\obj\Debug\net8.0\D38_Functions.pdb
+C:\Codes\CsharpProjects\D38_Functions\obj\Debug\net8.0\D38_Functions.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D38_Functions\obj\Debug\net8.0\ref\D38_Functions.dll

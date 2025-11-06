@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D16_TryParseFunction\bin\Debug\net8.0\D16_TryParseFunction.exe
+C:\Codes\CsharpProjects\D16_TryParseFunction\bin\Debug\net8.0\D16_TryParseFunction.deps.json
+C:\Codes\CsharpProjects\D16_TryParseFunction\bin\Debug\net8.0\D16_TryParseFunction.runtimeconfig.json
+C:\Codes\CsharpProjects\D16_TryParseFunction\bin\Debug\net8.0\D16_TryParseFunction.dll
+C:\Codes\CsharpProjects\D16_TryParseFunction\bin\Debug\net8.0\D16_TryParseFunction.pdb
+C:\Codes\CsharpProjects\D16_TryParseFunction\obj\Debug\net8.0\D16_TryParseFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D16_TryParseFunction\obj\Debug\net8.0\D16_TryParseFunction.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D16_TryParseFunction\obj\Debug\net8.0\D16_TryParseFunction.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D16_TryParseFunction\obj\Debug\net8.0\D16_TryParseFunction.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D16_TryParseFunction\obj\Debug\net8.0\D16_TryParseFunction.dll
+C:\Codes\CsharpProjects\D16_TryParseFunction\obj\Debug\net8.0\refint\D16_TryParseFunction.dll
+C:\Codes\CsharpProjects\D16_TryParseFunction\obj\Debug\net8.0\D16_TryParseFunction.pdb
+C:\Codes\CsharpProjects\D16_TryParseFunction\obj\Debug\net8.0\D16_TryParseFunction.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D16_TryParseFunction\obj\Debug\net8.0\ref\D16_TryParseFunction.dll

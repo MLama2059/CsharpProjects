@@ -1,0 +1,14 @@
+C:\Codes\CsharpProjects\D14_ConditionalOperator\bin\Debug\net8.0\D14_ConditionalOperator.exe
+C:\Codes\CsharpProjects\D14_ConditionalOperator\bin\Debug\net8.0\D14_ConditionalOperator.deps.json
+C:\Codes\CsharpProjects\D14_ConditionalOperator\bin\Debug\net8.0\D14_ConditionalOperator.runtimeconfig.json
+C:\Codes\CsharpProjects\D14_ConditionalOperator\bin\Debug\net8.0\D14_ConditionalOperator.dll
+C:\Codes\CsharpProjects\D14_ConditionalOperator\bin\Debug\net8.0\D14_ConditionalOperator.pdb
+C:\Codes\CsharpProjects\D14_ConditionalOperator\obj\Debug\net8.0\D14_ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\CsharpProjects\D14_ConditionalOperator\obj\Debug\net8.0\D14_ConditionalOperator.AssemblyInfoInputs.cache
+C:\Codes\CsharpProjects\D14_ConditionalOperator\obj\Debug\net8.0\D14_ConditionalOperator.AssemblyInfo.cs
+C:\Codes\CsharpProjects\D14_ConditionalOperator\obj\Debug\net8.0\D14_ConditionalOperator.csproj.CoreCompileInputs.cache
+C:\Codes\CsharpProjects\D14_ConditionalOperator\obj\Debug\net8.0\D14_ConditionalOperator.dll
+C:\Codes\CsharpProjects\D14_ConditionalOperator\obj\Debug\net8.0\refint\D14_ConditionalOperator.dll
+C:\Codes\CsharpProjects\D14_ConditionalOperator\obj\Debug\net8.0\D14_ConditionalOperator.pdb
+C:\Codes\CsharpProjects\D14_ConditionalOperator\obj\Debug\net8.0\D14_ConditionalOperator.genruntimeconfig.cache
+C:\Codes\CsharpProjects\D14_ConditionalOperator\obj\Debug\net8.0\ref\D14_ConditionalOperator.dll

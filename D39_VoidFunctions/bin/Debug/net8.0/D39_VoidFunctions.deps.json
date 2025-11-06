@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "D39_VoidFunctions/1.0.0": {
+        "runtime": {
+          "D39_VoidFunctions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D39_VoidFunctions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
